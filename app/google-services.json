@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587586775441",
+    "project_id": "textdetection-3fa5a",
+    "storage_bucket": "textdetection-3fa5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587586775441:android:18e331f538d38d4a30d230",
+        "android_client_info": {
+          "package_name": "com.symoh.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587586775441-snmoc9jt062sc65ujquss28ap1fvfpl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUFTQIIF73Tqmb-RqPLQUK9e7VcYKj-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587586775441-snmoc9jt062sc65ujquss28ap1fvfpl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
